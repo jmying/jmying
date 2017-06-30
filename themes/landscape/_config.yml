@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  github: https://github.com/jmying
 rss: /atom.xml
 
 # Content
@@ -19,7 +20,7 @@ widgets:
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
-# - category
+- category
 # - tagcloud
 # - archive
 
